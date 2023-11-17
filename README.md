@@ -6,7 +6,6 @@ Designed an optimized database system for a Fashion Buying Office Management Sys
 
 ### Table of Contents: DDL FILE
 
-The SQL script provided in this repository includes various parts:
 
 - **SECTION 01**: Created a Database Name [FBOMS_DB].
 
